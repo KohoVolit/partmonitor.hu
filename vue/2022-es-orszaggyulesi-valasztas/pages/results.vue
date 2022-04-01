@@ -23,10 +23,11 @@
     <div class="container p-2 ">
       <em>Tipp: Kattintson az egyik sorra a részletes összehasonlításhoz és a kérdésekhez fűzött megjegyzésekhez</em>
     </div>
-    <!-- <hr/>
+    <hr/>
       <div class="d-grid gap-2 col-sm-6 mx-auto">
-        <a class="btn btn-info" href="https://docs.google.com/spreadsheets/d/1xbuHjvoSJMRBxF1QSCkJWvK288qPeh5ftc7rRGfV3CU/edit?usp=sharing" target="_blank">Tabulka všech otázek a odpovědí</a>
-      </div> -->
+        <a class="btn btn-info" href="https://docs.google.com/spreadsheets/d/1KmFOrg9ipipUWoRWGzh6WaX2MeeXbeBDJpBZTL4fv64/edit?usp=sharing" target="_blank">Az összes kérdést és választ tartalmazó táblázat</a>
+      </div>
+      <br/>
     <!-- <hr/>
     <div class="d-grid gap-2 col-sm-6 mx-auto">
       <button type="button" class="btn" :class="{'disabled btn-secondary': !isChanged, 'btn-primary': isChanged}" @click="store()">{{ saveResultText }}</button>
